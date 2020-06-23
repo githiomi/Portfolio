@@ -44,13 +44,13 @@ I also incorporated the following languages:
 No bugs to report at the moment! the system works efficiently at 100% guaranteed. Feel free to search the output on googl to ensure that it coincides exactly.
 
 ## Link to live page
-[Click-Here](https://githiomi.github.io/GAccess)
+[Click-Here](https://githiomi.github.io/Portfolio/)
 
 ## Setup Instructions
 
 However, not necessary, you can get this website locally through the following steps:
 
-* git clone [This](https://githiomi.github.io/GAccess) into your terminal.  
+* git clone [This](https://githiomi.github.io/Portfolio/) into your terminal.  
 * Open the folder in your favourite editor, for example vscode ,is code . and for atom, atom . 
 * Open the index.html in your browser.
 * Enjoy my portfolio and don't forget to leave a remark at the end of your experience.
